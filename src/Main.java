@@ -1,7 +1,7 @@
 import java.util.List;
 public class Main {
     public static void main(String[] args) {
-        System.out.println("=====Henrique Mr AURA=====");
+        System.out.println("===== Henrique Martins Turcatel =====");
         Produtos produtos1 = new Produtos("Ração para Cachorro", "Alimento para Pet", 129.00);
         Produtos produtos2 = new Produtos("Vassoura", "Limpeza", 59.90);
         Produtos produtos3 = new Produtos("Frango Congelado", "Frios", 49.00);
